@@ -29,8 +29,9 @@ Desenvolvedor 👨🏻‍💻
   <a href = "mailto:gustavosantanaa02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5562984390390?text=Ol%C3%A1+Gustavo%2C+td+bem%3F" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+     <a href="https://instagram.com/gustavo.cardososantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a>
 
-  <a href="https://instagram.com/gustavo.cardososantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
  
 </div>
